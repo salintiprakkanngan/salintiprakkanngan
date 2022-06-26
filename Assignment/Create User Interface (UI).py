@@ -174,6 +174,5 @@ for x in date:
 std_vac.vaccinated_detail()
 
 
-
 # print([x for x in vacc])
 # print([x for x in date])
